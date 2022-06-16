@@ -16,7 +16,7 @@ div/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="40" heigth="40" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" heigth="40" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" heigth="40" align="center"/>
-<img src="https://i.picasion.com/pic92/a308f0ce954d343425632936bef14f1a.gif" width="100" height="100" margin="50" align="rigth" alt=Git animado de uma boneca em desenho azul /><br />
+<img align="rigth" position="Absolute" left="-100" src="https://i.picasion.com/pic92/a308f0ce954d343425632936bef14f1a.gif" width="100" height="100" margin="0"  alt="Git animado de uma boneca em desenho azul"/><br />
 <div/>
 
  ## 
