@@ -1,6 +1,6 @@
 ### <b>Olá sou a Ana Alves 🌙</b>
-🌸 Hoje sou estagiária </br>
-🌿 Estudo Analise e Desenvolvimento de Sistemas 
+🌸 Hoje sou Programadora Junior </br>
+🌿 Sou formada em Analise e Desenvolvimento de Sistemas 
 <div align="center">
 <img height="180em" src="http://github-readme-stats.vercel.app/api?username=AGabs19&show_icons=true&theme=algolia">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGabs19&layout=compact&theme=algolia"
